@@ -1,0 +1,14 @@
+img{
+  width:300px;
+}
+
+ul{
+  color: red;
+    font-family: monospace;
+    cursor: pointer;
+    
+}
+
+ul li{
+    display: inline
+}
